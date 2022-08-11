@@ -1,0 +1,15 @@
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/bin/Debug/net6.0/FAQs.Common.deps.json
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/bin/Debug/net6.0/FAQs.Common.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/bin/Debug/net6.0/FAQs.Common.pdb
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/bin/Debug/net6.0/FAQs.Data.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/bin/Debug/net6.0/FAQs.Data.pdb
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.AssemblyInfo.cs
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.csproj.CopyComplete
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/refint/FAQs.Common.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/FAQs.Common.pdb
+/Users/thn/RiderProjects/FAQsApp/FAQs.Common/obj/Debug/net6.0/ref/FAQs.Common.dll

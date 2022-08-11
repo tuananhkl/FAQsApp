@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQs.Api", "FAQs.Api\FAQs.Api.csproj", "{E5F1A58E-0C3C-4B08-8BBE-999B079B8838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQs.Business", "FAQs.Business\FAQs.Business.csproj", "{041571CD-D45B-47AE-A966-3EEE3FB4FB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQs.Common", "FAQs.Common\FAQs.Common.csproj", "{A78ECCE0-B419-4F8F-9E02-ACBB3912307E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQs.Data", "FAQs.Data\FAQs.Data.csproj", "{0070A1E3-ACAF-4CBB-ABE8-E625167286FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F1A58E-0C3C-4B08-8BBE-999B079B8838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F1A58E-0C3C-4B08-8BBE-999B079B8838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F1A58E-0C3C-4B08-8BBE-999B079B8838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F1A58E-0C3C-4B08-8BBE-999B079B8838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041571CD-D45B-47AE-A966-3EEE3FB4FB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041571CD-D45B-47AE-A966-3EEE3FB4FB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041571CD-D45B-47AE-A966-3EEE3FB4FB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041571CD-D45B-47AE-A966-3EEE3FB4FB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78ECCE0-B419-4F8F-9E02-ACBB3912307E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78ECCE0-B419-4F8F-9E02-ACBB3912307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78ECCE0-B419-4F8F-9E02-ACBB3912307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78ECCE0-B419-4F8F-9E02-ACBB3912307E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0070A1E3-ACAF-4CBB-ABE8-E625167286FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0070A1E3-ACAF-4CBB-ABE8-E625167286FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0070A1E3-ACAF-4CBB-ABE8-E625167286FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0070A1E3-ACAF-4CBB-ABE8-E625167286FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

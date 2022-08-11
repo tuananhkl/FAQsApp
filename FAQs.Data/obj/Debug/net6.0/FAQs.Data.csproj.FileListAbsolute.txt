@@ -1,0 +1,14 @@
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/bin/Debug/net6.0/FAQs.Data.deps.json
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/bin/Debug/net6.0/FAQs.Data.runtimeconfig.json
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/bin/Debug/net6.0/FAQs.Data.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/bin/Debug/net6.0/FAQs.Data.pdb
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.AssemblyInfo.cs
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/refint/FAQs.Data.dll
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.pdb
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/FAQs.Data.genruntimeconfig.cache
+/Users/thn/RiderProjects/FAQsApp/FAQs.Data/obj/Debug/net6.0/ref/FAQs.Data.dll
